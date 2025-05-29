@@ -12,7 +12,7 @@ This Data analysis project aims to generate insight into the sales performance o
   The primary source of Data used here is in .csv file and this is open source data 
 
 ### Tools Used
-- Ms Excel for data cleaning [Download here] (https://www.microsoft.com/en-us/microsoft-365/excel)
+- Ms Excel for data cleaning [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
     - For Data collection
     - For Data Cleaning
         1. Data Manipulation
