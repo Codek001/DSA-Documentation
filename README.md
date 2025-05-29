@@ -21,7 +21,15 @@ This Data analysis project aims to generate insight into the sales performance o
 - Power Bi 
 - MS Power Point
   
+```
+SQL
+/*
+Enter your query below.
+Please append a semicolon ";" at the end of the query
+*/
 
+
+```
   
 
   
