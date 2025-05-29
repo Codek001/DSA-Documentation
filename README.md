@@ -138,12 +138,6 @@ to **boldly** go
 
 to __boldly__ go
 
-
-
-
-
-
-
-
-
+**Analysis**
+![OIG2](https://github.com/user-attachments/assets/e0a1dae4-9f37-459a-a49e-2a3935c42a87)
 
