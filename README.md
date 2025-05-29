@@ -22,6 +22,10 @@ This Data analysis project aims to generate insight into the sales performance o
 - MS Power Point
 Data Cleaning and Preparation
 In the initial phase of the data cleaning and preparations, we perform the following action;
+1. Data loading and inspectation
+2. Handling missing variables
+3. Data cleaning and formatting
+   
   
 ``` SQL
 /*
