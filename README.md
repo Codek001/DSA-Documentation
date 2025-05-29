@@ -20,16 +20,16 @@ This Data analysis project aims to generate insight into the sales performance o
 - SQL Server (for querying and analysis)
 - Power Bi 
 - MS Power Point
+Data Cleaning and Preparation
+In the initial phase of the data cleaning and preparations, we perform the following action;
   
-```
-SQL
+``` SQL
 /*
 Enter your query below.
 Please append a semicolon ";" at the end of the query
 */
-
-
 ```
+
   
 
   
