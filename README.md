@@ -20,13 +20,16 @@ This Data analysis project aims to generate insight into the sales performance o
 - SQL Server (for querying and analysis)
 - Power Bi 
 - MS Power Point
-Data Cleaning and Preparation
+### Data Cleaning and Preparation
 In the initial phase of the data cleaning and preparations, we perform the following action;
 1. Data loading and inspectation
 2. Handling missing variables
 3. Data cleaning and formatting
    
-  
+### Explorating Data Analysis 
+EDA involves exploring of the data to answers some questions
+
+### Data Analysis 
 ``` SQL
 /*
 Enter your query below.
@@ -36,7 +39,9 @@ Please append a semicolon ";" at the end of the query
 
   
 
-  
+> Without data you're just
+
+> another person with an opinion  
 
 
 
