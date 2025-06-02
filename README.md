@@ -17,9 +17,8 @@ This Data analysis project aims to generate insight into the sales performance o
     - For Data Cleaning
         1. Data Manipulation
         2. Data Munching
-- SQL Server (for querying and analysis)
+- Mysql (for querying and analysis)
 - Power Bi 
-- MS Power Point
 ### Data Cleaning and Preparation
 In the initial phase of the data cleaning and preparations, we perform the following action;
 1. Data loading and inspectation
